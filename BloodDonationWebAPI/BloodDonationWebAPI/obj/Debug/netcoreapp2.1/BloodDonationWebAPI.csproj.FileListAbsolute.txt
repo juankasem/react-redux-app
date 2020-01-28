@@ -1,0 +1,14 @@
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.AssemblyInfoInputs.cache
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.AssemblyInfo.cs
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\bin\Debug\netcoreapp2.1\BloodDonationWebAPI.deps.json
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\bin\Debug\netcoreapp2.1\BloodDonationWebAPI.runtimeconfig.json
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\bin\Debug\netcoreapp2.1\BloodDonationWebAPI.runtimeconfig.dev.json
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\bin\Debug\netcoreapp2.1\BloodDonationWebAPI.dll
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.csprojAssemblyReference.cache
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.RazorAssemblyInfo.cache
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.RazorAssemblyInfo.cs
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\bin\Debug\netcoreapp2.1\BloodDonationWebAPI.pdb
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.dll
+C:\Users\KErem\source\repos\BloodDonationWebAPI\BloodDonationWebAPI\obj\Debug\netcoreapp2.1\BloodDonationWebAPI.pdb
